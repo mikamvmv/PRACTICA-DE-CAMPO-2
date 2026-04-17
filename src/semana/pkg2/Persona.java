@@ -32,7 +32,7 @@ public class Persona {
 
     public void setEdad(int edad) {
         
-        if(edad >= 0 && edad <=100){
+        if(edad >= 1 && edad <=100){
             this.edad = edad;
         }else{
             this.edad = 0;
