@@ -37,7 +37,9 @@ public class Persona {
             this.edad = edad;
         }else{
 
+
             this.edad = 5;
+
         }
     }
 
