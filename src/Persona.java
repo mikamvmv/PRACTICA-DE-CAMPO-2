@@ -36,7 +36,7 @@ public class Persona {
         if(edad >= 1 && edad <=70){
             this.edad = edad;
         }else{
-            this.edad = 0;
+            this.edad = 1;
         }
     }
 
